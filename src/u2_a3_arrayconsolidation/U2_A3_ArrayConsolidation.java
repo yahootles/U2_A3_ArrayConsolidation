@@ -28,7 +28,7 @@ public class U2_A3_ArrayConsolidation {
         double average;
         
         //get input of the number of marks
-        System.out.println("Hello. I am the MAKMEDIAN-5798. Enter the number of marks you wish to find the average of.");
+        System.out.println("~~MARK AVERAGE~~\n\nEnter the number of marks you wish to find the average of.");
         numMarks = kinput.nextInt();
         
         //initialize the array
